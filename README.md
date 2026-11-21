@@ -69,6 +69,8 @@ streamlit run app.py
 
 The app will open in your default browser at `http://localhost:8501`.
 
+OR simply open https://lastmiledeliveryanalytics-hdlxmrrutqu6ejjsuals9c.streamlit.app/ on web browser :)
+
 ### Data Setup
 
 The app expects a CSV file named **`Last mile Delivery Data.csv`** in the repository root. If the file is missing, you can:
